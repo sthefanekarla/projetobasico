@@ -28,3 +28,8 @@ Também há a vantagem de os métodos ágeis oferecerem novas maneiras de admini
 - SCRUM
 - Extreme Programming (XP)
 - Lean
+
+## ⚙️Equipes do projeto
+- Full-stack
+- Front-end
+- Back-end
